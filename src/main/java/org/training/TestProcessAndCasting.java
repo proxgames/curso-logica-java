@@ -1,4 +1,4 @@
-package org.training;
+package src.main.java.org.training;
 
 public class TestProcessAndCasting {
     public static void main(String[] args) {

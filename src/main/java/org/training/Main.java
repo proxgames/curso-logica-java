@@ -1,4 +1,4 @@
-package org.training;
+package src.main.java.org.training;
 
 import java.util.Locale;
 
